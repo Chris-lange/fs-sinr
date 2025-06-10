@@ -1,0 +1,10 @@
+gritlm==1.0.2
+matplotlib==3.9.2
+numpy==1.25.0
+pandas==2.2.3
+scikit-image==0.24.0
+scikit-learn==1.5.2
+tifffile==2024.9.20
+timm==0.9.7
+torch==2.5.1
+tqdm==4.66.6

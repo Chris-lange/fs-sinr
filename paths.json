@@ -1,0 +1,11 @@
+{
+    "data": "/disk/scratch_fast/chris_2/sinr/data/",
+    "masks": "/disk/scratch_fast/chris_2/sinr/data/masks/",
+    "env": "/disk/scratch_fast/chris_2/sinr/data/env/",
+    "train": "/disk/scratch_fast/chris_2/sinr/data/train/",
+    "snt": "/disk/scratch_fast/chris_2/sinr/data/eval/snt/",
+    "iucn": "/disk/scratch_fast/chris_2/sinr/data/eval/iucn/",
+    "text_embs": "/disk/scratch_fast/chris_2/sinr/wiki_data_v4.pt",
+    "eval_text_embs": "/disk/scratch_fast/chris_2/sinr/gpt_data.pt",
+    "image_embs": "/disk/scratch_fast/chris_2/sinr/data/reps/image_features.pt"
+} 
