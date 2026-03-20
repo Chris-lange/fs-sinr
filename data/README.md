@@ -80,6 +80,11 @@ cd /path/to/sinr/data/env
 curl -L https://biogeo.ucdavis.edu/data/worldclim/v2.1/base/wc2.1_5m_bio.zip --output wc2.1_5m_bio.zip
 curl -L https://biogeo.ucdavis.edu/data/worldclim/v2.1/base/wc2.1_5m_elev.zip --output wc2.1_5m_elev.zip
 ```
+UPDATE: If the above no longer works, download the 5m resolution bioclimatic and elevation data from:
+
+https://www.worldclim.org/data/worldclim21.html
+
+and place in the env folder.
 
 3. Extract the data:
 ```bash
